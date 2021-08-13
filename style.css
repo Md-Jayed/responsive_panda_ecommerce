@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 56px;
+    font-weight: 700;
+}
+.custom_button{
+    background-image: linear-gradient(#FF589B,#FF136F);
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+.boxs h2{
+    color: white;
+    font-size: 2em;
+    font-weight: 700;
+}
+.box-1{
+ background-color: #ffa500;
+}
+.box-2{
+    background-color: #da70d6;
+}
+.box-3{
+   background-color: #0000ff;
+}
+.subscribe{
+    background-color: #fceae8;
+    height: 300px;
+}
