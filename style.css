@@ -34,3 +34,10 @@ h1{
     background-color: #fceae8;
     height: 300px;
 }
+
+@media only screen and  (max-width: 480px) {
+    .subscribe{
+        justify-content:start!important;
+        padding-left: 10px;
+    }
+}
